@@ -38,7 +38,7 @@ export default function Home() {
         marginBottom: '48px',
       }}>
         Architecture Student.<br />
-        Parsons School of Design, B.Arch.
+        Parsons School of Design, BFA, Architectural Design.
       </p>
       <div style={{ display: 'flex', gap: '32px' }}>
         <Link href="/architecture" style={{
